@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Statistics
+	
+![CyberRex0's github stats](https://github-readme-stats.vercel.app/api?username=CyberRex0)
+
 # My Projects
 <a href="https://cyberbot.cyberrex.ml/" target="_blank"><img src="https://cdn.cyberrex.ml/github/banner1.png?v=2"></a>
 
