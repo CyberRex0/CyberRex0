@@ -15,12 +15,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# My Profile
+- My name is **CyberRex**
+- Birth on **08/11/2004**
+- Living in **Miyagi, Japan**
+- I'm **High school senior** (will graduation at Mar 2023)
+
 # Statistics
-![Follow Twitter](https://img.shields.io/twitter/follow/0xerrebyc?style=social)
 ![CyberRex0's github stats](https://github-readme-stats.vercel.app/api?username=CyberRex0)
 
 # My Projects
-<a href="https://cyberbot.cyberrex.ml/" target="_blank"><img src="https://cdn.cyberrex.ml/github/banner1.png?v=2"></a>
+## Discord
+- [CyberBot](https://cyberbot.cyberrex.ml/) - A multi-purpose discord bot
+- [UmaBot](https://umabot.cyberrex.jp/) - A discord bot for Umamusume Pretty Derby (Unoffical)
+## Fediverse
+- [ActivityPub Checker](https://ap-checker.herokuapp.com/) - Instance/User info viewer
+- [Markov Generator](https://markov-fedi.cyberrex.jp/) - Markov-based sentence maker
+- [Make it a quote for Fedi](https://misskey.io/@makeitquote) - Fediverse version of [Make It A Quote](https://twitter.com/makeitaquote)
+## Misskey
+- [MiShare](https://github.com/CyberRex0/mishare) - Website sharing extension for Misskey
 
-
-
+# Social accounts
+- Twitter: ![Follow Twitter](https://img.shields.io/twitter/follow/subrex0?style=social)
+- Discord: `CyberRex#1698`
+- Misskey: [@cyberrex_v2@misskey.io](https://misskey.io/@cyberrex_v2)
+- Matrix: `@cyberrex:matrix.fedibird.com`
+- Keybase: [cyberrex](https://keybase.io/cyberrex)
