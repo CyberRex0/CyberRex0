@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - Birth on **08/11/2004**
 - Living in **Miyagi, Japan**
 - I'm **High school senior** (will graduation at Mar 2023)
+- I usually use **Python, JavaScript/TypeScript, Vue, HTML, CSS and Shell Script (sh, bash).**
 
 # Statistics
 ![CyberRex0's github stats](https://github-readme-stats.vercel.app/api?username=CyberRex0)
@@ -30,10 +31,10 @@ Here are some ideas to get you started:
 - [UmaBot](https://umabot.cyberrex.jp/) - A discord bot for Umamusume Pretty Derby (Unoffical)
 ## Fediverse
 - [ActivityPub Checker](https://ap-checker.herokuapp.com/) - Instance/User info viewer
-- [Markov Generator](https://markov-fedi.cyberrex.jp/) - Markov-based sentence maker
-- [Make it a quote for Fedi](https://misskey.io/@makeitquote) - Fediverse version of [Make It A Quote](https://twitter.com/makeitaquote)
+- [Markov Generator](https://github.com/CyberRex0/markov-generator-fedi) - Markov-based sentence maker [[Website]](https://markov-fedi.cbrx.io/)
+- [Make it a quote for Fedi](https://github.com/CyberRex0/miq-fedi) - Fediverse version of [Make It A Quote](https://twitter.com/makeitaquote) [[View account (misskey.io)]](https://misskey.io/@makeitquote)
 ## Misskey
-- [MiShare](https://github.com/CyberRex0/mishare) - Website sharing extension for Misskey
+- [MiShare](https://github.com/CyberRex0/mishare) - Website sharing extension for Misskey [[Chrome]](https://chrome.google.com/webstore/detail/mishare/mhcekclmecbihalcaijbcgfdffmdcjhe) [[Firefox]](https://addons.mozilla.org/firefox/addon/mishare/)
 
 # Social accounts
 - Twitter: ![Follow Twitter](https://img.shields.io/twitter/follow/subrex0?style=social)
