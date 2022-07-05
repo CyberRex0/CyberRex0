@@ -42,3 +42,10 @@ Here are some ideas to get you started:
 - Misskey: [@cyberrex_v2@misskey.io](https://misskey.io/@cyberrex_v2)
 - Matrix: `@cyberrex:matrix.fedibird.com`
 - Keybase: [cyberrex](https://keybase.io/cyberrex)
+
+# Donation
+NOTE: For Japanese users only.
+
+寄付はKyashによる送金で受け付けています。
+Kyash ID: `cyberrex0`
+Kyashのアカウント名がGitHubのアカウント名と異なる場合は、送金時のコメント欄にURLかユーザー名をお書きください。
