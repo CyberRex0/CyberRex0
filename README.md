@@ -46,6 +46,6 @@ Here are some ideas to get you started:
 # Donation
 NOTE: For Japanese users only.
 
-寄付はKyashによる送金で受け付けています。
-Kyash ID: `cyberrex0`
-Kyashのアカウント名がGitHubのアカウント名と異なる場合は、送金時のコメント欄にURLかユーザー名をお書きください。
+寄付はKyashによる送金で受け付けています。<br>
+Kyash ID: `cyberrex0`<br>
+Kyashのアカウント名がGitHubのアカウント名と異なる場合は、送金時のコメント欄にURLかユーザー名をお書きください。<br>
