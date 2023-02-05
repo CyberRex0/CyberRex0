@@ -15,12 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# My Profile
+# Hi there!
 - My name is **CyberRex**
 - Birth on **08/11/2004**
 - Living in **Miyagi, Japan**
 - I'm **High school senior** (will graduation at Mar 2023)
 - I usually use **Python, JavaScript/TypeScript, Vue, HTML, CSS and Shell Script (sh, bash).**
+- I'm studying **React Native, Java**
 
 # Statistics
 ![CyberRex0's github stats](https://github-readme-stats.vercel.app/api?username=CyberRex0)
