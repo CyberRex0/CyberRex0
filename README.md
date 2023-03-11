@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - My name is **CyberRex**
 - Birth on **08/11/2004**
 - Living in **Miyagi, Japan**
-- I'm **High school senior** (will graduation at Mar 2023)
+- I'm **vocational school student** (will graduation at Mar 2025)
 - I usually use **Python, JavaScript/TypeScript, Vue, HTML, CSS and Shell Script (sh, bash).**
 - I'm studying **React Native, Java**
 
