@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - Birth on **08/11/2004**
 - Living in **Miyagi, Japan**
 - I'm **vocational school student** (will graduation at Mar 2025)
-- I usually use **Python, JavaScript/TypeScript, Vue, HTML, CSS and Shell Script (sh, bash).**
+- I usually use **Python, JavaScript, TypeScript, Vue, HTML, CSS and Shell Script (especially sh and bash).**
 - I'm studying **React Native, Java**
 
 # Statistics
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 # My Projects
 ## Discord
-- [CyberBot](https://cyberbot.cyberrex.ml/) - A multi-purpose discord bot
+- [CyberBot](https://cyberbot.cyberrex.jp/) - A multi-purpose discord bot
 - [UmaBot](https://umabot.cyberrex.jp/) - A discord bot for Umamusume Pretty Derby (Unoffical)
 ## Fediverse
 - [ActivityPub Checker](https://ap-checker.herokuapp.com/) - Instance/User info viewer
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 # Social accounts
 - Twitter: ![Follow Twitter](https://img.shields.io/twitter/follow/subrex0?style=social)
-- Discord: `CyberRex#1698`
+- Discord: `cyberrex`
 - Misskey: [@cyberrex_v2@misskey.io](https://misskey.io/@cyberrex_v2)
 - Matrix: `@cyberrex:matrix.fedibird.com`
 - Keybase: [cyberrex](https://keybase.io/cyberrex)
