@@ -26,6 +26,9 @@ Here are some ideas to get you started:
 # Statistics
 ![CyberRex0's github stats](https://github-readme-stats.vercel.app/api?username=CyberRex0)
 
+# Projects which mainly contributing
+- [Misskey](https://github.com/misskey-dev/misskey) - an open source, decentralized social media platform. Made in Japan
+
 # My Projects
 ## Discord
 - [CyberBot](https://cyberbot.cyberrex.jp/) - A multi-purpose discord bot
