@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hi there!
 - My name is **CyberRex**
-- Birth on **August 11, 2004**
+- Was born on **August 11, 2004**
 - Living in **Miyagi, Japan**
 - I'm **vocational school student** (will graduation at Mar 2025)
 - I usually use **Python, JavaScript, TypeScript, Vue.js, HTML, CSS and Shell Script (especially sh and bash).**
