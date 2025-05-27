@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 # Hi there!
 - My name is **CyberRex**
-- Was born on **August 11, 2004**
-- Living in **Miyagi, Japan**
-- I'm **vocational school student** (will graduation at Mar 2025)
+- I'm **20 years old**
+- I'm living in **Miyagi, Japan**
+- I'm **Newbie Software Engineer** (since April 2025)
 - I usually use **Python, JavaScript, TypeScript, Vue.js, HTML, CSS and Shell Script (especially sh and bash).**
 - I'm studying **React, Java**
 
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 - [MiShare](https://github.com/CyberRex0/mishare) - Website sharing extension for Misskey [[Chrome]](https://chrome.google.com/webstore/detail/mishare/mhcekclmecbihalcaijbcgfdffmdcjhe) [[Firefox]](https://addons.mozilla.org/firefox/addon/mishare/)
 
 # Social accounts
-- Twitter: ![Follow Twitter](https://img.shields.io/twitter/follow/subrex0?style=social)
+- Twitter: ![Follow Twitter](https://img.shields.io/twitter/follow/cyberrex_v2?style=social)
 - Discord: `cyberrex`
 - Misskey: [@cyberrex_v2@misskey.io](https://misskey.io/@cyberrex_v2)
 - Matrix: `@cyberrex:matrix.fedibird.com`, `@cyberrex:matrix.cbrx.io`
