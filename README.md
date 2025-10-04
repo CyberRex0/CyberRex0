@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hi there!
 - My name is **CyberRex**
-- I'm **20 years old**
+- I'm **21 years old**
 - I'm living in **Miyagi, Japan**
 - I'm **Newbie Software Engineer** (since April 2025)
 - I usually use **Python, JavaScript, TypeScript, Vue.js, HTML, CSS and Shell Script (especially sh and bash).**
