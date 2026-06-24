@@ -19,9 +19,16 @@ Here are some ideas to get you started:
 - My name is **CyberRex**
 - I'm **21 years old**
 - I'm living in **Miyagi, Japan**
-- I'm **Newbie Software Engineer** (since April 2025)
-- I usually use **Python, JavaScript, TypeScript, Vue.js, HTML, CSS and Shell Script (especially sh and bash).**
-- I'm studying **React, Java**
+- I'm **Newbie Software Engineer** since April 2025
+
+### Programming Languages
+The one I use most often is **Python**
+
+Next is **JavaScript**
+
+### Learned frameworks
+ASP.NET Core, Vue.js and more...
+
 
 # Statistics
 ![CyberRex0's github stats](https://github-readme-stats.vercel.app/api?username=CyberRex0)
