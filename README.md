@@ -27,8 +27,7 @@ The one I use most often is **Python**
 Next is **JavaScript**
 
 ### Learned frameworks
-ASP.NET Core, Vue.js and more...
-
+ASP.NET Core, Flask, FastAPI, Vue.js and more...
 
 # Statistics
 ![CyberRex0's github stats](https://github-readme-stats.vercel.app/api?username=CyberRex0)
