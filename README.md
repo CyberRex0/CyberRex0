@@ -30,7 +30,7 @@ Next is **JavaScript**
 ASP.NET Core, Flask, FastAPI, Vue.js and more...
 
 # Statistics
-![CyberRex0's github stats](https://github-readme-stats.vercel.app/api?username=CyberRex0)
+[![CyberRex's GitHub stats](https://github-stats-extended.vercel.app/api?username=CyberRex0)](https://github.com/stats-organization/github-stats-extended)
 
 # Projects which mainly contributing
 - [Misskey](https://github.com/misskey-dev/misskey) - an open source, decentralized social media platform. Made in Japan
